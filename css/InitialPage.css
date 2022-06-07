@@ -44,7 +44,7 @@ strong {
 
 #biography {
     width: 100%;
-    height: 150px;
+    height: 350px;
     margin: 75px auto;
     padding-left: 8em;
     padding-right: 8em;
@@ -62,11 +62,15 @@ strong {
     font-family: 'Work Sans Condensed', sans-serif;
 }
 
+#listapoema {
+    padding-left: 2em;
+}
+
 #nav {
-    display: block;
-    height: 17em;
+    display:block; 
+    height: auto;
     width: 100%;
-    padding-top: 3em;
+    padding-top: 5em;
     margin-bottom: 3em;
     font-size: 40px;
     text-align: left;
@@ -91,7 +95,7 @@ strong {
 #footer {
     display: block;
     width: 100%;
-    height: 250px;
+    height: auto;
     background-color: #ffa500;
 }
 
@@ -113,11 +117,13 @@ strong {
 }
 
 .contactIcon {
+
     display: inline;
     width: 50px;
     height: 50px;
-    margin-left: 210px;
+    margin-left: 15.7%;
     margin-bottom: 30px;
+
 }
 
 .contactImageReset {
